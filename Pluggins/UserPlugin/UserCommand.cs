@@ -9,8 +9,8 @@ namespace UserPlugin
 {
     public class UserCommand : ICommand
     {
-        public string Name { get => "User"; }
-        public string Description { get => "Displays User message."; }
+        public string Name { get => "UserCommand"; }
+        public string Description { get => "Get the list of user of json files from the folder User."; }
 
         public int Execute()
         {
