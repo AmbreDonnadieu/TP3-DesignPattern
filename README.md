@@ -10,7 +10,7 @@ La solution est organisée de la manière suivante :
 ## Question 2 : Dans quel projet mettez-vous la classe User? 
 ### Celle-ci est composée d'un nom, d'un prénom et d'une adresse mail.
 
-La classe user est dans la partie plugin car le rôle de celui-ci est de "convertir" un fichier json d'utilisateur en 
+La classe user est dans la partie plugin car le rôle de celui-ci est de "convertir" un fichier json d'utilisateur en liste json.
 
 ## Question 3 : En vous basant sur la documentation, à quoi ressemble l'interface d'un plugin dans notre système? 
 ### (N'oubliez pas il doit pouvoir charger une liste d'utilisateur)
