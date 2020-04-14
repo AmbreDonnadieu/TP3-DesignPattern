@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\Pluggins\PluginLecture\PluginLecture.csproj" />
+    <ProjectReference Include="..\Pluggins\PluginBase\PluginBase.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

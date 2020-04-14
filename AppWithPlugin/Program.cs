@@ -23,6 +23,7 @@ namespace AppWithPlugin
                 string[] pluginPaths = new string[]
                 {
                     // Paths to plugins to load.
+                    @"./Pluggins/UserPlugin/bin/Debug/netcoreapp2.0/UserPlugin.dll"
                 };
 
                 IEnumerable<ICommand> commands = pluginPaths.SelectMany(pluginPath =>
@@ -64,8 +65,6 @@ namespace AppWithPlugin
             {
                 Console.WriteLine(ex);
             }
-
-            Console.ReadKey();
         }
 
 
