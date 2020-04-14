@@ -40,6 +40,11 @@ namespace AppWithPlugin
                     {
                         Console.WriteLine($"{command.Name}\t - {command.Description}");
                     }
+                    Console.WriteLine("Now we will execute all command named before : ");
+                    foreach(ICommand command in commands)
+                    {
+                        command.Execute();
+                    }
                 }
                 else
                 {
