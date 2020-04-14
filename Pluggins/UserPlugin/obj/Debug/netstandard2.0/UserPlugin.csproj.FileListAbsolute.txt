@@ -1,0 +1,9 @@
+C:\Users\Ambre\Desktop\TP3-DesignPattern\Pluggins\UserPlugin\bin\Debug\netstandard2.0\UserPlugin.deps.json
+C:\Users\Ambre\Desktop\TP3-DesignPattern\Pluggins\UserPlugin\bin\Debug\netstandard2.0\UserPlugin.dll
+C:\Users\Ambre\Desktop\TP3-DesignPattern\Pluggins\UserPlugin\bin\Debug\netstandard2.0\UserPlugin.pdb
+C:\Users\Ambre\Desktop\TP3-DesignPattern\Pluggins\UserPlugin\obj\Debug\netstandard2.0\UserPlugin.csprojAssemblyReference.cache
+C:\Users\Ambre\Desktop\TP3-DesignPattern\Pluggins\UserPlugin\obj\Debug\netstandard2.0\UserPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Ambre\Desktop\TP3-DesignPattern\Pluggins\UserPlugin\obj\Debug\netstandard2.0\UserPlugin.AssemblyInfoInputs.cache
+C:\Users\Ambre\Desktop\TP3-DesignPattern\Pluggins\UserPlugin\obj\Debug\netstandard2.0\UserPlugin.AssemblyInfo.cs
+C:\Users\Ambre\Desktop\TP3-DesignPattern\Pluggins\UserPlugin\obj\Debug\netstandard2.0\UserPlugin.dll
+C:\Users\Ambre\Desktop\TP3-DesignPattern\Pluggins\UserPlugin\obj\Debug\netstandard2.0\UserPlugin.pdb

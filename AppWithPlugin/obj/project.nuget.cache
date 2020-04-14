@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bXGO/v0gbjvinN0ip/LnKMgSWOou8QRNiD2CfwjdMJj2roUrODdPUSAiOTDV1PvPvsZ3SdZxu570N3CHa4t65g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ambre\\Desktop\\TP3-DesignPattern\\AppWithPlugin\\AppWithPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ambre\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

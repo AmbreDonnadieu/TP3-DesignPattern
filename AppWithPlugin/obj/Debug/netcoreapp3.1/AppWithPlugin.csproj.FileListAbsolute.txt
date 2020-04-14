@@ -1,0 +1,17 @@
+C:\Users\Ambre\Desktop\TP3-DesignPattern\AppWithPlugin\bin\Debug\netcoreapp3.1\AppWithPlugin.exe
+C:\Users\Ambre\Desktop\TP3-DesignPattern\AppWithPlugin\bin\Debug\netcoreapp3.1\AppWithPlugin.deps.json
+C:\Users\Ambre\Desktop\TP3-DesignPattern\AppWithPlugin\bin\Debug\netcoreapp3.1\AppWithPlugin.runtimeconfig.json
+C:\Users\Ambre\Desktop\TP3-DesignPattern\AppWithPlugin\bin\Debug\netcoreapp3.1\AppWithPlugin.runtimeconfig.dev.json
+C:\Users\Ambre\Desktop\TP3-DesignPattern\AppWithPlugin\bin\Debug\netcoreapp3.1\AppWithPlugin.dll
+C:\Users\Ambre\Desktop\TP3-DesignPattern\AppWithPlugin\bin\Debug\netcoreapp3.1\AppWithPlugin.pdb
+C:\Users\Ambre\Desktop\TP3-DesignPattern\AppWithPlugin\obj\Debug\netcoreapp3.1\AppWithPlugin.csprojAssemblyReference.cache
+C:\Users\Ambre\Desktop\TP3-DesignPattern\AppWithPlugin\obj\Debug\netcoreapp3.1\AppWithPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Ambre\Desktop\TP3-DesignPattern\AppWithPlugin\obj\Debug\netcoreapp3.1\AppWithPlugin.AssemblyInfoInputs.cache
+C:\Users\Ambre\Desktop\TP3-DesignPattern\AppWithPlugin\obj\Debug\netcoreapp3.1\AppWithPlugin.AssemblyInfo.cs
+C:\Users\Ambre\Desktop\TP3-DesignPattern\AppWithPlugin\obj\Debug\netcoreapp3.1\AppWithPlugin.csproj.CopyComplete
+C:\Users\Ambre\Desktop\TP3-DesignPattern\AppWithPlugin\obj\Debug\netcoreapp3.1\AppWithPlugin.dll
+C:\Users\Ambre\Desktop\TP3-DesignPattern\AppWithPlugin\obj\Debug\netcoreapp3.1\AppWithPlugin.pdb
+C:\Users\Ambre\Desktop\TP3-DesignPattern\AppWithPlugin\obj\Debug\netcoreapp3.1\AppWithPlugin.genruntimeconfig.cache
+C:\Users\Ambre\Desktop\TP3-DesignPattern\AppWithPlugin\bin\Debug\netcoreapp3.1\PluginBase.dll
+C:\Users\Ambre\Desktop\TP3-DesignPattern\AppWithPlugin\bin\Debug\netcoreapp3.1\PluginBase.pdb
+C:\Users\Ambre\Desktop\TP3-DesignPattern\AppWithPlugin\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
